@@ -23,6 +23,7 @@ void main() {
         ),
         backgroundColor: Colors.grey[100],
       ),
+      debugShowCheckedModeBanner: false,
     ),
   );
 }
